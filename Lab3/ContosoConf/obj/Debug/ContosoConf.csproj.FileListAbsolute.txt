@@ -1,0 +1,63 @@
+D:\КУРСЫ\20480-Programming-in-HTML5-with-JavaScript-and-CSS3-master\Allfiles\Mod03\Labfiles\Starter\Exercise 2\ContosoConf\bin\ContosoConf.dll.config
+D:\КУРСЫ\20480-Programming-in-HTML5-with-JavaScript-and-CSS3-master\Allfiles\Mod03\Labfiles\Starter\Exercise 2\ContosoConf\bin\ContosoConf.dll
+D:\КУРСЫ\20480-Programming-in-HTML5-with-JavaScript-and-CSS3-master\Allfiles\Mod03\Labfiles\Starter\Exercise 2\ContosoConf\bin\ContosoConf.pdb
+D:\КУРСЫ\20480-Programming-in-HTML5-with-JavaScript-and-CSS3-master\Allfiles\Mod03\Labfiles\Starter\Exercise 2\ContosoConf\bin\Microsoft.Web.Infrastructure.dll
+D:\КУРСЫ\20480-Programming-in-HTML5-with-JavaScript-and-CSS3-master\Allfiles\Mod03\Labfiles\Starter\Exercise 2\ContosoConf\bin\System.Web.Helpers.dll
+D:\КУРСЫ\20480-Programming-in-HTML5-with-JavaScript-and-CSS3-master\Allfiles\Mod03\Labfiles\Starter\Exercise 2\ContosoConf\bin\System.Web.Mvc.dll
+D:\КУРСЫ\20480-Programming-in-HTML5-with-JavaScript-and-CSS3-master\Allfiles\Mod03\Labfiles\Starter\Exercise 2\ContosoConf\bin\System.Web.Razor.dll
+D:\КУРСЫ\20480-Programming-in-HTML5-with-JavaScript-and-CSS3-master\Allfiles\Mod03\Labfiles\Starter\Exercise 2\ContosoConf\bin\System.Web.WebPages.Deployment.dll
+D:\КУРСЫ\20480-Programming-in-HTML5-with-JavaScript-and-CSS3-master\Allfiles\Mod03\Labfiles\Starter\Exercise 2\ContosoConf\bin\System.Web.WebPages.dll
+D:\КУРСЫ\20480-Programming-in-HTML5-with-JavaScript-and-CSS3-master\Allfiles\Mod03\Labfiles\Starter\Exercise 2\ContosoConf\bin\System.Web.WebPages.Razor.dll
+D:\КУРСЫ\20480-Programming-in-HTML5-with-JavaScript-and-CSS3-master\Allfiles\Mod03\Labfiles\Starter\Exercise 2\ContosoConf\bin\System.Web.Helpers.xml
+D:\КУРСЫ\20480-Programming-in-HTML5-with-JavaScript-and-CSS3-master\Allfiles\Mod03\Labfiles\Starter\Exercise 2\ContosoConf\bin\System.Web.Mvc.xml
+D:\КУРСЫ\20480-Programming-in-HTML5-with-JavaScript-and-CSS3-master\Allfiles\Mod03\Labfiles\Starter\Exercise 2\ContosoConf\bin\System.Web.Razor.xml
+D:\КУРСЫ\20480-Programming-in-HTML5-with-JavaScript-and-CSS3-master\Allfiles\Mod03\Labfiles\Starter\Exercise 2\ContosoConf\bin\System.Web.WebPages.xml
+D:\КУРСЫ\20480-Programming-in-HTML5-with-JavaScript-and-CSS3-master\Allfiles\Mod03\Labfiles\Starter\Exercise 2\ContosoConf\bin\System.Web.WebPages.Deployment.xml
+D:\КУРСЫ\20480-Programming-in-HTML5-with-JavaScript-and-CSS3-master\Allfiles\Mod03\Labfiles\Starter\Exercise 2\ContosoConf\bin\System.Web.WebPages.Razor.xml
+D:\КУРСЫ\20480-Programming-in-HTML5-with-JavaScript-and-CSS3-master\Allfiles\Mod03\Labfiles\Starter\Exercise 2\ContosoConf\obj\Debug\ContosoConf.csprojAssemblyReference.cache
+D:\КУРСЫ\20480-Programming-in-HTML5-with-JavaScript-and-CSS3-master\Allfiles\Mod03\Labfiles\Starter\Exercise 2\ContosoConf\obj\Debug\ContosoConf.csproj.CoreCompileInputs.cache
+D:\КУРСЫ\20480-Programming-in-HTML5-with-JavaScript-and-CSS3-master\Allfiles\Mod03\Labfiles\Starter\Exercise 2\ContosoConf\obj\Debug\ContosoConf.csproj.CopyComplete
+D:\КУРСЫ\20480-Programming-in-HTML5-with-JavaScript-and-CSS3-master\Allfiles\Mod03\Labfiles\Starter\Exercise 2\ContosoConf\obj\Debug\ContosoConf.dll
+D:\КУРСЫ\20480-Programming-in-HTML5-with-JavaScript-and-CSS3-master\Allfiles\Mod03\Labfiles\Starter\Exercise 2\ContosoConf\obj\Debug\ContosoConf.pdb
+D:\Lab3\ContosoConf\bin\ContosoConf.dll.config
+D:\Lab3\ContosoConf\bin\ContosoConf.dll
+D:\Lab3\ContosoConf\bin\ContosoConf.pdb
+D:\Lab3\ContosoConf\bin\Microsoft.Web.Infrastructure.dll
+D:\Lab3\ContosoConf\bin\System.Web.Helpers.dll
+D:\Lab3\ContosoConf\bin\System.Web.Mvc.dll
+D:\Lab3\ContosoConf\bin\System.Web.Razor.dll
+D:\Lab3\ContosoConf\bin\System.Web.WebPages.Deployment.dll
+D:\Lab3\ContosoConf\bin\System.Web.WebPages.dll
+D:\Lab3\ContosoConf\bin\System.Web.WebPages.Razor.dll
+D:\Lab3\ContosoConf\bin\System.Web.Helpers.xml
+D:\Lab3\ContosoConf\bin\System.Web.Mvc.xml
+D:\Lab3\ContosoConf\bin\System.Web.Razor.xml
+D:\Lab3\ContosoConf\bin\System.Web.WebPages.xml
+D:\Lab3\ContosoConf\bin\System.Web.WebPages.Deployment.xml
+D:\Lab3\ContosoConf\bin\System.Web.WebPages.Razor.xml
+D:\Lab3\ContosoConf\obj\Debug\ContosoConf.csprojAssemblyReference.cache
+D:\Lab3\ContosoConf\obj\Debug\ContosoConf.csproj.CoreCompileInputs.cache
+D:\Lab3\ContosoConf\obj\Debug\ContosoConf.csproj.CopyComplete
+D:\Lab3\ContosoConf\obj\Debug\ContosoConf.dll
+D:\Lab3\ContosoConf\obj\Debug\ContosoConf.pdb
+D:\Курсы Microsoft\Lab3\ContosoConf\bin\ContosoConf.dll.config
+D:\Курсы Microsoft\Lab3\ContosoConf\bin\ContosoConf.dll
+D:\Курсы Microsoft\Lab3\ContosoConf\bin\ContosoConf.pdb
+D:\Курсы Microsoft\Lab3\ContosoConf\bin\Microsoft.Web.Infrastructure.dll
+D:\Курсы Microsoft\Lab3\ContosoConf\bin\System.Web.Helpers.dll
+D:\Курсы Microsoft\Lab3\ContosoConf\bin\System.Web.Mvc.dll
+D:\Курсы Microsoft\Lab3\ContosoConf\bin\System.Web.Razor.dll
+D:\Курсы Microsoft\Lab3\ContosoConf\bin\System.Web.WebPages.Deployment.dll
+D:\Курсы Microsoft\Lab3\ContosoConf\bin\System.Web.WebPages.dll
+D:\Курсы Microsoft\Lab3\ContosoConf\bin\System.Web.WebPages.Razor.dll
+D:\Курсы Microsoft\Lab3\ContosoConf\bin\System.Web.Helpers.xml
+D:\Курсы Microsoft\Lab3\ContosoConf\bin\System.Web.Mvc.xml
+D:\Курсы Microsoft\Lab3\ContosoConf\bin\System.Web.Razor.xml
+D:\Курсы Microsoft\Lab3\ContosoConf\bin\System.Web.WebPages.xml
+D:\Курсы Microsoft\Lab3\ContosoConf\bin\System.Web.WebPages.Deployment.xml
+D:\Курсы Microsoft\Lab3\ContosoConf\bin\System.Web.WebPages.Razor.xml
+D:\Курсы Microsoft\Lab3\ContosoConf\obj\Debug\ContosoConf.csprojAssemblyReference.cache
+D:\Курсы Microsoft\Lab3\ContosoConf\obj\Debug\ContosoConf.csproj.CoreCompileInputs.cache
+D:\Курсы Microsoft\Lab3\ContosoConf\obj\Debug\ContosoConf.csproj.CopyComplete
+D:\Курсы Microsoft\Lab3\ContosoConf\obj\Debug\ContosoConf.dll
+D:\Курсы Microsoft\Lab3\ContosoConf\obj\Debug\ContosoConf.pdb

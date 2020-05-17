@@ -1,0 +1,14 @@
+D:\КУРСЫ\20480-Programming-in-HTML5-with-JavaScript-and-CSS3-master\Allfiles\Mod02\Labfiles\Solution\Exercise 2\ContosoConf\ContosoConf\bin\ContosoConf.dll.config
+D:\КУРСЫ\20480-Programming-in-HTML5-with-JavaScript-and-CSS3-master\Allfiles\Mod02\Labfiles\Solution\Exercise 2\ContosoConf\ContosoConf\bin\ContosoConf.dll
+D:\КУРСЫ\20480-Programming-in-HTML5-with-JavaScript-and-CSS3-master\Allfiles\Mod02\Labfiles\Solution\Exercise 2\ContosoConf\ContosoConf\bin\ContosoConf.pdb
+D:\КУРСЫ\20480-Programming-in-HTML5-with-JavaScript-and-CSS3-master\Allfiles\Mod02\Labfiles\Solution\Exercise 2\ContosoConf\ContosoConf\obj\Debug\ContosoConf.csproj.CoreCompileInputs.cache
+D:\КУРСЫ\20480-Programming-in-HTML5-with-JavaScript-and-CSS3-master\Allfiles\Mod02\Labfiles\Solution\Exercise 2\ContosoConf\ContosoConf\obj\Debug\ContosoConf.dll
+D:\КУРСЫ\20480-Programming-in-HTML5-with-JavaScript-and-CSS3-master\Allfiles\Mod02\Labfiles\Solution\Exercise 2\ContosoConf\ContosoConf\obj\Debug\ContosoConf.pdb
+D:\КУРСЫ\20480-Programming-in-HTML5-with-JavaScript-and-CSS3-master\Allfiles\Mod02\Labfiles\Solution\Exercise 2\ContosoConf\ContosoConf\obj\Debug\ContosoConf.csprojAssemblyReference.cache
+D:\Курсы Microsoft\Lab 2\ContosoConf\bin\ContosoConf.dll.config
+D:\Курсы Microsoft\Lab 2\ContosoConf\bin\ContosoConf.dll
+D:\Курсы Microsoft\Lab 2\ContosoConf\bin\ContosoConf.pdb
+D:\Курсы Microsoft\Lab 2\ContosoConf\obj\Debug\ContosoConf.csprojAssemblyReference.cache
+D:\Курсы Microsoft\Lab 2\ContosoConf\obj\Debug\ContosoConf.csproj.CoreCompileInputs.cache
+D:\Курсы Microsoft\Lab 2\ContosoConf\obj\Debug\ContosoConf.dll
+D:\Курсы Microsoft\Lab 2\ContosoConf\obj\Debug\ContosoConf.pdb
