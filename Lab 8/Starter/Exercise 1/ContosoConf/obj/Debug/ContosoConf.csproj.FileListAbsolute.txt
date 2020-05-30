@@ -19,3 +19,24 @@ D:\КУРСЫ\20480-Programming-in-HTML5-with-JavaScript-and-CSS3-master\Allfile
 D:\КУРСЫ\20480-Programming-in-HTML5-with-JavaScript-and-CSS3-master\Allfiles\Mod08\Labfiles\Starter\Exercise 1\ContosoConf\obj\Debug\ContosoConf.csproj.CopyComplete
 D:\КУРСЫ\20480-Programming-in-HTML5-with-JavaScript-and-CSS3-master\Allfiles\Mod08\Labfiles\Starter\Exercise 1\ContosoConf\obj\Debug\ContosoConf.dll
 D:\КУРСЫ\20480-Programming-in-HTML5-with-JavaScript-and-CSS3-master\Allfiles\Mod08\Labfiles\Starter\Exercise 1\ContosoConf\obj\Debug\ContosoConf.pdb
+D:\Курсы Microsoft\Lab 8\Starter\Exercise 1\ContosoConf\bin\ContosoConf.dll.config
+D:\Курсы Microsoft\Lab 8\Starter\Exercise 1\ContosoConf\bin\ContosoConf.dll
+D:\Курсы Microsoft\Lab 8\Starter\Exercise 1\ContosoConf\bin\ContosoConf.pdb
+D:\Курсы Microsoft\Lab 8\Starter\Exercise 1\ContosoConf\bin\Microsoft.Web.Infrastructure.dll
+D:\Курсы Microsoft\Lab 8\Starter\Exercise 1\ContosoConf\bin\System.Web.Helpers.dll
+D:\Курсы Microsoft\Lab 8\Starter\Exercise 1\ContosoConf\bin\System.Web.Mvc.dll
+D:\Курсы Microsoft\Lab 8\Starter\Exercise 1\ContosoConf\bin\System.Web.Razor.dll
+D:\Курсы Microsoft\Lab 8\Starter\Exercise 1\ContosoConf\bin\System.Web.WebPages.Deployment.dll
+D:\Курсы Microsoft\Lab 8\Starter\Exercise 1\ContosoConf\bin\System.Web.WebPages.dll
+D:\Курсы Microsoft\Lab 8\Starter\Exercise 1\ContosoConf\bin\System.Web.WebPages.Razor.dll
+D:\Курсы Microsoft\Lab 8\Starter\Exercise 1\ContosoConf\bin\System.Web.Helpers.xml
+D:\Курсы Microsoft\Lab 8\Starter\Exercise 1\ContosoConf\bin\System.Web.Mvc.xml
+D:\Курсы Microsoft\Lab 8\Starter\Exercise 1\ContosoConf\bin\System.Web.Razor.xml
+D:\Курсы Microsoft\Lab 8\Starter\Exercise 1\ContosoConf\bin\System.Web.WebPages.xml
+D:\Курсы Microsoft\Lab 8\Starter\Exercise 1\ContosoConf\bin\System.Web.WebPages.Deployment.xml
+D:\Курсы Microsoft\Lab 8\Starter\Exercise 1\ContosoConf\bin\System.Web.WebPages.Razor.xml
+D:\Курсы Microsoft\Lab 8\Starter\Exercise 1\ContosoConf\obj\Debug\ContosoConf.csprojAssemblyReference.cache
+D:\Курсы Microsoft\Lab 8\Starter\Exercise 1\ContosoConf\obj\Debug\ContosoConf.csproj.CoreCompileInputs.cache
+D:\Курсы Microsoft\Lab 8\Starter\Exercise 1\ContosoConf\obj\Debug\ContosoConf.csproj.CopyComplete
+D:\Курсы Microsoft\Lab 8\Starter\Exercise 1\ContosoConf\obj\Debug\ContosoConf.dll
+D:\Курсы Microsoft\Lab 8\Starter\Exercise 1\ContosoConf\obj\Debug\ContosoConf.pdb
